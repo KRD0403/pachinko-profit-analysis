@@ -1,4 +1,5 @@
 📊 Pachinko Profit Analysis
+Machine learning project to predict daily net profit in pachinko stores and analyze key profit drivers.
 1. 背景・目的
 
 本プロジェクトは、パチンコ店舗における利益構造の把握と主要因の特定を目的として実施した。
@@ -104,7 +105,7 @@ python main.py
 
 ※ 実行するとモデル学習および評価が行われ、結果はコンソールに出力されます。
 ※ 分析過程のEDAは notebooks フォルダに保存しています。
-※ モデル評価時の可視化結果は output フォルダに保存しています。
+※ モデル評価時の可視化結果（予測値比較・残差分布は output フォルダに保存しています。
 
 📊 Pachinko Profit Analysis
 
