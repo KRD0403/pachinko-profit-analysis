@@ -8,7 +8,7 @@ Machine learning project to predict daily net profit in pachinko stores and anal
 2. データ概要
 
 ・期間：8日
-・台数：34台
+・台数：31台
 ・単位：台 × 日のレコード
 
 主な変数：
